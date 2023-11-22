@@ -1,0 +1,23 @@
+/*Selector {
+	Property: value;
+}*/
+
+body {
+	background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMTY2LWJhY2tncm91bmQtMTAteC5qcGc.jpg);
+	background-size: cover;
+}
+h2,p {
+	color:lightblue;
+	text-align: center;
+	border: 5px solid orange;
+	cursor: progress;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+	border: 10px dashed seagreen;
+}
